@@ -52,7 +52,7 @@ project/
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/playstore-rating-prediction.git
+git clone https://github.com/manjumedhasree/Google-Play-Store-Rating-Prediction-using-ML.git
 ```
 
 2. Install dependencies:
